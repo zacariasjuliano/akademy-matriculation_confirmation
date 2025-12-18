@@ -20,7 +20,7 @@ We hope you find **SAGE Education** motivating and inspiring, and we look forwar
 
 ---
 
-## ⚙️ Akademy Matriculation Confirmation Module
+## Akademy Matriculation Confirmation Module
 
 The **Akademy Matriculation Confirmation (Enrollment Confirmation Management)** is a complementary module responsible for **expanding the functionalities** of the **Enrollment Management** module, offering advanced tools for managing enrollment renewals.
 
