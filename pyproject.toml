@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "akademy_matriculation_confirmation"
-version = "1.0.0"
+version = "1.0.1"
 description = "SAGE Education is a free and open-source project for educators, educational institutions, and governments."
 authors = [
     { name = "Zacarias Juliano Capingala", email = "zacariasjuliano@gmail.com" }
@@ -22,9 +22,9 @@ dependencies = [
 Homepage = "https://comunidadedosaber.ao"
 Documentation = "https://docs.comunidadedosaber.ao"
 Demo = "https://sage.comunidadedosaber.ao"
-Repository = "https://github.com/comunidadedosaber/akademy-matriculation_confirmation"
-"Bug Tracker" = "https://github.com/comunidadedosaber/akademy-matriculation_confirmation/issues"
-Changelog = "https://github.com/comunidadedosaber/akademy-matriculation_confirmation/blob/main/CHANGELOG.md"
+Repository = "https://github.com/zacariasjuliano/akademy-matriculation_confirmation"
+"Bug Tracker" = "https://github.com/zacariasjuliano/akademy-matriculation_confirmation/issues"
+Changelog = "https://github.com/zacariasjuliano/akademy-matriculation_confirmation/blob/main/CHANGELOG.md"
 
 [tool.poetry]
 classifiers=[
