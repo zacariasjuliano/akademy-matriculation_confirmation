@@ -2,9 +2,11 @@
 
 **Version:** 1.0.x  
 **Module:** Akademy Matriculation  
-**Developer:** Zacarias Juliano Capingala *(Homem Marketing)*  
+**Developer:** Zacarias Juliano Capingala   
+
 
 ---
+
 
 ## 📘 About the Project
 
@@ -17,23 +19,61 @@ No matter where in the world you live, we are passionate about upholding educati
 
 We hope you find **SAGE Education** motivating and inspiring, and we look forward to having you as part of the team.
 
+
 ---
+
 
 ## Akademy Matriculation Confirmation Module
 
 The **Akademy Matriculation Confirmation (Enrollment Confirmation Management)** is a complementary module responsible for **expanding the functionalities** of the **Enrollment Management** module, offering advanced tools for managing enrollment renewals.
 
+### 🎯 Purpose
+
+The module centralizes **matriculation confirmation workflows**, including:
+- Guided wizard steps for new enrollments
+- Adjustment or change of existing matriculations
+- Structured interaction with academic data (students, courses, academic years)
+
+It is intended for **schools, training centers, universities, and educational authorities** that require **formalized and auditable enrollment confirmation processes**.
+
+### ✨ Main Features
+
+#### 📝 Matriculation Confirmation
+- Wizard-based confirmation of newly created matriculations
+- Stepwise guidance for users
+
+#### 🔄 Matriculation Adjustments
+- Wizard-based modification of existing matriculations
+- Controlled changes to ensure consistency in records
+
+
 ---
 
 
-## 🌐 Homepage
+## 🌍 Target Audience
+
+- Educational institutions
+- System administrators
+- Open-source contributors
+- Governments and NGOs
+- Educational software integrators
+
+
+### 🌐 Homepage
 
 **Website:** [comunidadedosaber.ao](https://comunidadedosaber.ao)  
 **E-mail:** [comercial@comunidadedosaber.ao](mailto:comercial@comunidadedosaber.ao)
 
+
 ---
 
-## 💬 Technical Support
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Please open an issue or submit a pull request following the SAGE Edu contribution guidelines.
+
+### 💬 Technical Support
 
 If you encounter any errors or require technical support, please contact us through the channels below:
 
