@@ -160,8 +160,10 @@ class MatriculationCreateWzard(metaclass=PoolMeta):
             verify_year = course_frist_year - int(classes_course_year[0].course_year)
             
             if verify_year == 0:
-                if student.state.name not in student_state: 
-                    MatriculationCreateWzard.matriculation_student_classe(student_new_matriculation, ClasseStudent, company_student, classes, Student_Discipline)                 
+                if len(student_has_matriculation) > 0:
+                    for student in student_has_matriculation:
+                        if student.state.name not in student_state: 
+                            MatriculationCreateWzard.matriculation_student_classe(student_new_matriculation, ClasseStudent, company_student, classes, Student_Discipline)                 
             else:
                 raise UserError("Não foi possível matricular o discente "+company_student.party.name+
                                 ", na classe "+classes.classe.name+", por favor verifique a situação do discente.")
