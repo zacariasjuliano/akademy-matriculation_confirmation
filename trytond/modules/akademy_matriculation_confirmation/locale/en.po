@@ -57,3 +57,7 @@ msgstr "Choose the student."
 msgctxt "help:akademy_matriculation_confirmation.wizchangematriculation.create.start,classes:"
 msgid "Escolha a turma onde será feita a mudança."
 msgstr "Choose the class where the change will be made."
+
+msgctxt "model:ir.action,name:act_changematriculation_wizard"
+msgid "Mudança de matrícula"
+msgstr "Change of registration"
